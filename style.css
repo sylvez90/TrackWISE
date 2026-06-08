@@ -589,7 +589,7 @@ footer p {
 .footer-ft{
   display: flex;
   align-items: flex-start;
-  gap: 30rem;
+  gap: 20rem;
   cursor: pointer;
   font-size: 1.2rem;
   margin-top: 1.5rem;
